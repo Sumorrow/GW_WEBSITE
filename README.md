@@ -10,3 +10,4 @@
 编译和配置工具：apche-tomcat10.1.33、JDK23、MySQL8.0.39
 
 服务器以及配置：阿里云2G-2G、ubantu24.0.0、apche-tomcat10.1.33、JDK23、MySQL8.0.36、宝塔面板
+
